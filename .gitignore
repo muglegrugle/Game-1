@@ -34,3 +34,6 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+game_1/ProjectSettings/Physics2DSettings.asset
+game_1/ProjectSettings/UnityConnectSettings.asset
+game_1/ProjectSettings/XRSettings.asset
