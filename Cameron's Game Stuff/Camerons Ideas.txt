@@ -1,0 +1,10 @@
+
+
+3 places to tap
+
+Forge: tap tap until you create a sword. There will be a certain number of taps need to create a sword. Once completed it will be given a random attack value.
+
+Quest: tap tap to attack monsters and get special items needed to make special swords. The better sword you send with your knight the more likely you will recieve rare items.
+
+Mine: tap tap to collect metals. Metals will be unlocked to be able to mine them, each tap could be like .01 or 1 of ingot. to make it harder to mine. Possible metals: Bronze, Iron, Silver, Gold, Diamond, Platinum. 
+
